@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.env # Ortam değişkenleri dosyanız
+
+# IDE ve Editör dosyaları (Opsiyonel)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
