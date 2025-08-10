@@ -36,3 +36,5 @@ source venv/bin/activate
 Download: pip install requests redis python-dotenv
 
 take for your api key I'm advice you up url----> : 'VISUAL_CROSSING_API_KEY=SİZİN_API_ANAHTARINIZ'
+
+https://roadmap.sh/projects/weather-api-wrapper-service
